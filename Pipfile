@@ -1,0 +1,10 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[packages]
+"backports.ssl-match-hostname" = "*"
+"requests" = "*"
+"six" = "*"
+"websocket-client" = "*"
+"wsgiref" = "*"
